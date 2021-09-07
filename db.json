@@ -1,0 +1,16 @@
+{
+  "spendings": [
+    {
+      "id": 2,
+      "item": "Income",
+      "amount": 50000,
+      "spent": false
+    },
+    {
+      "item": "Saturday Night Dinner",
+      "amount": 500,
+      "spent": true,
+      "id": 3
+    }
+  ]
+}
